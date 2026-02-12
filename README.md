@@ -23,6 +23,10 @@ An Android app that scans business cards using your phone's camera, extracts con
 - **Navigation**: Jetpack Navigation Compose
 - **Min SDK**: Android 8.0 (API 26)
 
+## Quick Install
+
+Download the latest APK from the [Releases page](https://github.com/davesnyd/BZCardScan/releases/latest) and install it on your Android phone (Android 8.0+). No computer or build tools required.
+
 ## Documentation
 
 - [User Guide](docs/USER_GUIDE.md) — How to use the app

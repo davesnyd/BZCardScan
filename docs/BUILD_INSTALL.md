@@ -1,5 +1,28 @@
 # BZ Card Scan — Build & Install Guide
 
+## Quick Install (No Build Required)
+
+If you just want to install the app on your phone:
+
+1. On your Android phone, go to the [latest release](https://github.com/davesnyd/BZCardScan/releases/latest)
+2. Download **app-debug.apk**
+3. Open the downloaded file
+4. If prompted, allow **"Install from unknown sources"** for your browser or file manager
+5. Tap **Install**
+
+That's it. The app requires Android 8.0 (Oreo) or newer.
+
+To verify your download, compare the SHA256 hash listed on the release page with:
+```bash
+sha256sum app-debug.apk
+```
+
+---
+
+## Building from Source
+
+The rest of this guide is for developers who want to build the app themselves.
+
 ## Prerequisites
 
 ### Android Studio
